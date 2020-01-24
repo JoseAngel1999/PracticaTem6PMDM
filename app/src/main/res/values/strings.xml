@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PracticaTem6PMDM</string>
+    <string name="personas">Personas</string>
+    <string name="blocdenotas">Bloc de Notas</string>
+    <string name="personas1">Personas1</string>
+    <string name="personas2">Personas2</string>
+    <string name="personas3">Personas3</string>
+    <string name="personas4">Personas4</string>
+    <string name="personas5">Personas5</string>
+    <string name="personas6">Personas6</string>
+    <string name="escribirbloc">Escribe aqui...</string>
+    <string name="botonGuardar">Guardar</string>
+
+</resources>

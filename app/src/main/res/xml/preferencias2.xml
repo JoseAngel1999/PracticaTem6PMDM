@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Introduce un texto">
+        <EditTextPreference
+            android:key="Bloc1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Ingrese un texto" />
+    </PreferenceCategory>
+</PreferenceScreen>

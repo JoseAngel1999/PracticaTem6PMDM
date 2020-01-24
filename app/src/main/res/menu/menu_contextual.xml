@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/opcionLlamar"
+        android:title="Llamar"/>
+    <item
+        android:id="@+id/opcionCorreo"
+        android:title="Correo Electronico"/>
+    <item
+        android:id="@+id/opcionEditar"
+        android:title="Editar Datos"/>
+
+</menu>

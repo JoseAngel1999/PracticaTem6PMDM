@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="Ajustes">
+        <item>Numero</item>
+        <item>Email</item>
+    </array>
+
+</resources>

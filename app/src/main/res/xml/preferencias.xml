@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Numero de telefono">
+        <EditTextPreference
+            android:key="Numero"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Ingrese el numero de telefono" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Email">
+
+        <EditTextPreference
+            android:key="Correo Electronico"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Ingrese el correo electronico" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
